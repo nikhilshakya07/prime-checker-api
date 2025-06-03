@@ -34,7 +34,7 @@ Query Parameters:
 
 Examples:
 ```
-GET /isprime?num=7
+ /isprime?num=7
 ```
 
 Response:
