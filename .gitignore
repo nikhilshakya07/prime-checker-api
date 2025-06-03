@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files (in case you use dotenv later)
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
